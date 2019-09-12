@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "SkyChanger",
+    "author": "TerableCoder",
+    "description": "Changes the Sky",
+    "version": "1",
+    "options": {
+        "settingsVersion": 1,
+        "settingsFile": "config.json"
+    },
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/SkyChanger/master/"],
+    "supportUrl": "https://github.com/TerableCoder/SkyChanger/issues"
+}
